@@ -3,16 +3,17 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep13paul&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep13paul" /> </p>  
   
-- 🌱 I’m currently learning **Spring and Spring Boot**  
+- 🔭 I’m currently working on **Spring and Spring Boot**
+- 🌱 I’m currently learning **Docker and Kubernetes**
   
 - 📫 How to reach me **1305sandeeppaul@gmail.com**   
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://linkedin.com/in/sandeep paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep paul" height="30" width="40" /></a>  
-<!-- <a href="https://www.hackerrank.com/1305sandeeppaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1305sandeeppaul" height="30" width="40" /></a>   -->
-<!-- <a href="https://www.leetcode.com/sandeep_13_paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep_13_paul" height="30" width="40" /></a>   -->
-<!-- <a href="https://auth.geeksforgeeks.org/user/1305sandgbj6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1305sandgbj6" height="30" width="40" /></a>   -->
+<a href="https://www.hackerrank.com/1305sandeeppaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1305sandeeppaul" height="30" width="40" /></a>   -->
+<a href="https://www.leetcode.com/S13_paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep_13_paul" height="30" width="40" /></a>  
+<a href="https://auth.geeksforgeeks.org/user/1305sandgbj6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1305sandgbj6" height="30" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
