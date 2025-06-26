@@ -3,9 +3,9 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep13paul&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep13paul" /> </p>  
   
-- 🔭 I’m currently working on **Spring and Spring Boot**
-- 🌱 I’m currently learning **Docker and Kubernetes**
-  
+- 🔭 I have worked on **Spring and Spring Boot** and also frontends frameworks like **Vue3 and React.js**
+- 🌱 I’m currently learning **Docker, Kubernetes and DevOps Principles**
+- 🌱 I’m currently exploring **Cloud Infrastructure, Terraforms, Atlantis and Ansible**
 - 📫 How to reach me **1305sandeeppaul@gmail.com**   
   
 <h3 align="left">Connect with me:</h3>  
